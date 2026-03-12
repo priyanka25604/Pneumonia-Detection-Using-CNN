@@ -104,7 +104,3 @@ Deploy as a web application
 
 Priyanka Bendi
 
-
-✅ Resume bullet points
-
-Just tell me 😊
